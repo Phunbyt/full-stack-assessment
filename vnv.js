@@ -1,1 +1,0 @@
-postgres://wktbbsnieiztir:d153a394e7d56ba6b752a82e359524f82c81dd419c18523d18c2a20de8147915@ec2-3-229-161-70.compute-1.amazonaws.com:5432/dd99c5olh8uvjn
