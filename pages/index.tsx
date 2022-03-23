@@ -5,7 +5,7 @@ import Questions from '../components/Questions';
 
 export async function getServerSideProps() {
   const { data } = await axios.get(
-    'http://localhost:1337/api/questions?fields=title,content'
+    'https://thawing-taiga-06906.herokuapp.com/api/questions?fields=title,content'
   );
 
   return {
